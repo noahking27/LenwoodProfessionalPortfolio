@@ -712,10 +712,9 @@ img {
 ---------------------------------*/
 
 .business-talking {
-    background: url(../img/section-bg2.jpg) top center no-repeat;
-    background-size: cover;
     padding: 60px 0 10px;
     text-align: center;
+    background-color: black;
 }
 
 .business-talking h2 {
